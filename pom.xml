@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Facebook-release</name>
-	      <url>http://43.204.114.204:8081/kiran/repository/Facebook-release/</url>
+	      <url>http://13.126.82.220:8081/kiran/repository/Facebook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Facebook-snapshot </name>
-	      <url>http://43.204.114.204:8081/kiran/repository/Facebook-snapshot/</url>
+	      <url>http://13.126.82.220:8081/kiran/repository/Facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
